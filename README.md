@@ -30,7 +30,6 @@ Ceci pourrait s'expliquer par plusieurs facteurs:
 
 - **La hausse du taux d'intéret**
   *Quand les taux montent, pour la même mensualité, ces acheteurs peuvent emprunter beaucoup moins. Exemple simplifié :Les acheteurs, à budget mensuel égal, doivent viser des biens moins chers → ils négocient plus fort, ou achètent ailleurs/plus petit. Moins de pouvoir d'achat immobilier = pression à la baisse sur les prix de ce segment précisément.
-Mais plusieurs autres facteurs pourraient être en cause: *
 - **L'inflation générale**
   * réduisant le pouvoir d'achat des ménages( les salaires n'ont globalement pas suivi l'inflation en France et le pouvoir d'achat réel des ménages a mécaniquement diminué, réduisant leur capacité à absorber des prix immobiliers élevés.
 - **Le durcissement des conditions d'octroi de crédit**.
