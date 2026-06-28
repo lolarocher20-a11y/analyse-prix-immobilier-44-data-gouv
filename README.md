@@ -11,11 +11,6 @@ Analyse de l'évolution du prix de l'immobilier de 2021 à 2025 dans le départe
 - **Analyse des outliers***-->Filtrage des aberrations de prix au m² élimination des lignes avec des prix au m2 <500 et >20000€.*
 - **Vérification des formats** *-->Date au format datetime.*
 
-
-
-- Liste à puce 1
-- Liste à puce 2
-
 ## Analyse 
 ### 
 
