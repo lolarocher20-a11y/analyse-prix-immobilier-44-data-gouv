@@ -19,14 +19,36 @@ Analyse de l'évolution du prix de l'immobilier de 2021 à 2025 dans le départe
 ## Analyse 
 ### 
 
-**Texte en gras**
-*Texte en italique*
+- **Texte en gras**
+*Une forte densité entre 30-150m² → c'est la zone où se concentre l'immense majorité de tes ventes (logique, taille standard d'un logement)
+Une dispersion qui se réduit avec la surface → plus le bien est grand, moins il y a de variabilité dans le prix au m² (logique aussi : les petites surfaces incluent un mélange très hétérogène de petits studios en centre-ville chers et de petites maisons rurales pas chères, alors que les grandes propriétés sont plus homogènes)
+Une légère tendance à la baisse : les surfaces au-delà de 200-300m² semblent avoir un prix au m² plus faible en moyenne — ce qui est un phénomène bien connu en immobilier ("effet de taille" : plus c'est grand, moins c'est cher au m², car la demande est plus restreinte).
 
-- Liste à puce 1
-- Liste à puce 2
+*
+- **Ralentissement des ventes**
+   *Le marché nantais a connu un ralentissement de ses ventes, généralisé sur la période 2022-2024 (-30 à -35% selon les segments)
+- **Baisse du prix au m2**
+   *(-7% à -16% selon la taille du logement).
+- **Reprise du volume des ventes en 2025**
+   *sur tous les segments. *
+  
+Ceci pourrait s'expliquer par plusieurs facteurs:
 
-1. Liste numérotée
-2. Deuxième élément
+- **La hausse du taux d'intéret**
+  *Quand les taux montent, pour la même mensualité, ces acheteurs peuvent emprunter beaucoup moins. Exemple simplifié :Les acheteurs, à budget mensuel égal, doivent viser des biens moins chers → ils négocient plus fort, ou achètent ailleurs/plus petit. Moins de pouvoir d'achat immobilier = pression à la baisse sur les prix de ce segment précisément.
+Mais plusieurs autres facteurs pourraient être en cause: *
+- **L'inflation générale**
+  * réduisant le pouvoir d'achat des ménages( les salaires n'ont globalement pas suivi l'inflation en France et le pouvoir d'achat réel des ménages a mécaniquement diminué, réduisant leur capacité à absorber des prix immobiliers élevés.
+- **Le durcissement des conditions d'octroi de crédit**.
+  * Les banques françaises ont dû respecter des règles plus strictes sur le taux d'endettement maximum (35% des revenus) depuis 2022 — donc même des acheteurs avec de bons revenus se sont vus refuser des prêts qu'ils auraient obtenus facilement avant. Ça réduit le nombre d'acheteurs solvables sur le marché.
+
+Mon dataset ne permet pas d'isoler la contribution exacte de chaque facteur, mais ces éléments macroéconomiques convergent pour expliquer la tendance observée. 
+
+
+Les grandes surfaces (150m²+) ont mieux résisté, suggérant que les acheteurs de biens haut de gamme sont moins sensibles à la hausse des taux d'intérêt. 
+ *
+
+
 
 [Texte cliquable](https://lien-vers-le-site.com)
 
