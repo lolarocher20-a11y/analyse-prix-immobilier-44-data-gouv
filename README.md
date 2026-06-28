@@ -3,6 +3,7 @@ Analyse de l'évolution du prix de l'immobilier de 2021 à 2025 dans le départe
 (Données de Demande de Valeurs Foncières DVF)
 
 ## Nettoyage
+
 **- Conservation des types Maison/ Appartement seulement**
 *Concentration de l'analyse sur l'achat d'appartement et de maisons*
 **- Supression des colonnes inutiles**
