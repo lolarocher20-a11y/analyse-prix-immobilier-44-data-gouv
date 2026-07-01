@@ -14,7 +14,7 @@ Analyse de l'évolution du prix de l'immobilier de 2021 à 2025 dans le départe
 ## Analyse 
 ### 
 
-
+![Vison Globale](https://github.com/lolarocher20-a11y/analyse-prix-immobilier-44-data-gouv/blob/main/vision%20globale.png)
 ![Etude de la commune de Nantes](https://github.com/lolarocher20-a11y/analyse-prix-immobilier-44-data-gouv/blob/main/etude%20commune%20nantes%20.png)
 
 - **Vue Globale**
