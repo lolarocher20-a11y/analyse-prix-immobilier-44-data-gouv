@@ -14,6 +14,9 @@ Analyse de l'évolution du prix de l'immobilier de 2021 à 2025 dans le départe
 ## Analyse 
 ### 
 
+
+![Etude de la commune de Nantes](chemin-vers-image.png)
+
 - **Vue Globale**
 *Une forte densité entre 30-150m² → c'est la zone où se concentre l'immense majorité de tes ventes (logique, taille standard d'un logement)
 Une dispersion qui se réduit avec la surface → plus le bien est grand, moins il y a de variabilité dans le prix au m² (les petites surfaces incluent un mélange très hétérogène de petits studios en centre-ville chers et de petites maisons rurales pas chères, alors que les grandes propriétés sont plus homogènes.)
@@ -44,5 +47,3 @@ Les grandes surfaces (150m²+) ont mieux résisté, suggérant que les acheteurs
 
 
 [Texte cliquable](https://lien-vers-le-site.com)
-
-![Description de l'image](chemin-vers-image.png)
